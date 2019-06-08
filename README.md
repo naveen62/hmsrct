@@ -1,3 +1,3 @@
-clone project \n
-run yarn or npm install \n
-start project:- npm run start \n
+clone project <br/>
+run yarn or npm install <br/>
+start project:- npm run start <br/>
